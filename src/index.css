@@ -3,3 +3,24 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+.square{
+  height: 37px;
+  width: 37px;
+  font-size: 30px;
+  text-align: center;
+  vertical-align: middle;
+ }
+.head{
+  height: 37px;
+  width: 37px;
+  font-size: 20px;
+  text-align: center;
+  vertical-align: middle;
+}
+.end-game{
+  color: red;
+}
+
+tr {
+   vertical-align:top;
+}
